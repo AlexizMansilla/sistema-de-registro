@@ -5,3 +5,5 @@
 Para ejecurtar el sistema, debes poner:
 
 ```npm install react```
+
+Sistema de Regiastro 2
